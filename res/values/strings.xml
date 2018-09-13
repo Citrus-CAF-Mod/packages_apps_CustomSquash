@@ -478,4 +478,9 @@
     <string name="dialog_pick_iconpack_title">Pick icon pack</string>
     <string name="default_iconpack_title">Default icons</string>
 
+    <!-- Status Bar -->
+    <string name="statusbar_settings_category">Status Bar</string>
+    <string name="use_old_mobiletype_title">Use old mobile type style</string>
+    <string name="use_old_mobiletype_summary">Merge signal and type icons</string>
+
 </resources>
